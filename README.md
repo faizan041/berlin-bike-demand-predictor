@@ -1,4 +1,4 @@
-# berlin-bike-demand-predictor
+
 # 🚲 Berlin Bike Demand Predictor
 
 This project forecasts hourly bike rental demand in Berlin using historical weather and usage data.
